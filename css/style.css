@@ -1,0 +1,33 @@
+#retangulo{
+    margin-top: 150px;
+    margin-left: 530px;
+    height: 370px;
+    width: 230px;
+    background-color: #1A2730;
+    border-radius: 10px;
+}
+#fotoum{
+    border-radius: 10px;
+    margin-top: 14px;
+    margin-left: 15px;
+    width: 200px;
+    height: 200px;
+}
+#cristal{
+    margin-top: -40px;
+    margin-left: 5px;
+}
+#horario{
+    margin-top: -20px;
+    margin-left: 130px;
+}
+#ETH{
+    margin-left: 20px;
+}
+#days{
+    margin-left: 150px;
+    margin-top: -40px;
+}
+h2,p{
+text-align: center;
+}
